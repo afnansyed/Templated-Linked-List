@@ -1,0 +1,3 @@
+C:/Users/xiapi/CLionProjects/Project1_part1/cmake-build-debug/CMakeFiles/Project1_part1.dir
+C:/Users/xiapi/CLionProjects/Project1_part1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xiapi/CLionProjects/Project1_part1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
